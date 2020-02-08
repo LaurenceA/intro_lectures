@@ -14,13 +14,13 @@ Note that you may have to delete the
 line in the first code block in Google Colab.
 
 <h2> Anaconda Python </h2>
-If you want to get the notebooks running locally, I advise that you start by installing [Anaconda Python distribution](https://www.anaconda.com/distribution/), which is available on all operating systems, and comes with all the major numerical programming libraries.
+If you want to get the notebooks running locally, I advise that you start by installing <a href="https://www.anaconda.com/distribution/">Anaconda Python distribution</a>, which is available on all operating systems, and comes with all the major numerical programming libraries.
 
 In addition, you need to install [PyTorch](https://pytorch.org),
 ```bash
 conda install pytorch torchvision -c pytorch
 ```
-And [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib.git), using
+And <a href="https://github.com/matplotlib/jupyter-matplotlib">jupyter-matplotlib</a>, using
 ```bash
 conda install -c conda-forge ipympl
 
