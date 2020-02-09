@@ -4,8 +4,9 @@ I am giving these lectures from IPython Notebooks.  I strongly suggest you open 
 
 <h2> Google Colab </h2>
 The easiest approach to getting the notebooks working is by uploading them to <a href="https://colab.research.google.com/">Google Colab</a>.  You can either download the notebook, and upload it.  Or you can even load it directly from GitHub by going to "GitHub" instead of "Upload", and pasting in a link to the notebook, e.g.
-
+```
 https://github.com/LaurenceA/intro_lectures/blob/master/Lecture_1.ipynb
+```
 
 Note that you may have to delete the
 ```python
