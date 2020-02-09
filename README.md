@@ -20,7 +20,7 @@ In addition, you need to install [PyTorch](https://pytorch.org),
 ```bash
 conda install pytorch torchvision -c pytorch
 ```
-And <a href="https://github.com/matplotlib/jupyter-matplotlib">jupyter-matplotlib</a>, using
+To get `%matplotlib widget` working, you also need to install <a href="https://github.com/matplotlib/jupyter-matplotlib">jupyter-matplotlib</a>, using
 ```bash
 conda install -c conda-forge ipympl
 
